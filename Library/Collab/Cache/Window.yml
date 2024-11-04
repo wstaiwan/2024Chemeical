@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/Layer lab.meta
+    - Assets/Layer lab/3D Casual Character.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/FBX.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/FBX/Character.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/FBX/Character/Characters.fbx
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/FBX/Character/Characters.fbx.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Material.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Material/ColorA.mat
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Material/ColorA.mat.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Material/ColorB.mat
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Material/ColorB.mat.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Material/ColorC.mat
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Material/ColorC.mat.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Material/ColorD.mat
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Material/ColorD.mat.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Prefabs.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Prefabs/Characters.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Prefabs/Characters/Characters_27.prefab
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Prefabs/Characters/Characters_27.prefab.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Texture.meta
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Texture/Casual_Character.png
+    - Assets/Layer lab/3D Casual Character/3D Characters Pro - Casual/Texture/Casual_Character.png.meta
+    - Assets/Layer lab/3D Casual Character/Animation.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Action_Jump.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Action_Jump.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Action_Punch.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Action_Punch.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Action_Run.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Action_Run.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Action_Walk.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Action_Walk.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Dance_1.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Dance_1.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Dance_2.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Dance_2.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Dance_3.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Dance_3.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Dance_4.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Dance_4.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Aghast.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Aghast.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Angry.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Angry.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Applaud.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Applaud.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Be_Bashful.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Be_Bashful.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Cheer.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Cheer.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Cry.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Cry.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Gas.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Gas.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Hi.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Hi.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Nice.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Nice.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Pester.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Pester.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Putter_Around.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Putter_Around.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Showmanship.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Showmanship.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_SideToSide.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_SideToSide.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Sigh.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Sigh.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Smile1.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Smile1.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Smile2.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Emoji_Smile2.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Interaction_Item_Put.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Interaction_Item_Put.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Interaction_Pickup.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Interaction_Pickup.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Interaction_Shovel.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Interaction_Shovel.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Interaction_Sickle.fbx
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Interaction_Sickle.fbx.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Reaction_Agonize.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Reaction_Agonize.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Reaction_Knockout.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Reaction_Knockout.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Reaction_Struck.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Reaction_Struck.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Stand_Idle1.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Stand_Idle1.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Stand_Idle2.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Stand_Idle2.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Stand_Idle4.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Stand_Idle4.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Stand_Idle5.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Stand_Idle5.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Stand_Idle6.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Stand_Idle6.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Stand_idle3.FBX
+    - Assets/Layer lab/3D Casual Character/Animation/Anim@Stand_idle3.FBX.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Characters_27 1.controller
+    - Assets/Layer lab/3D Casual Character/Animation/Characters_27 1.controller.meta
+    - Assets/Layer lab/3D Casual Character/Animation/Characters_27.controller
+    - Assets/Layer lab/3D Casual Character/Animation/Characters_27.controller.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/MemorySettings.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
